@@ -1,0 +1,11 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "A Website built for Simon Game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avinash M",
+  "license": "ISC"
+}
